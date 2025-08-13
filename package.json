@@ -1,0 +1,20 @@
+{
+  "name": "skills-getting-started-with-github-copilot",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revathiraman196/skills-getting-started-with-github-copilot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revathiraman196/skills-getting-started-with-github-copilot/issues"
+  },
+  "homepage": "https://github.com/revathiraman196/skills-getting-started-with-github-copilot#readme"
+}
